@@ -83,10 +83,10 @@ author:
   name             : "Hang Shen (沈航)"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Nanjing"
-  employer         :
+  location         : "30 South Puzhu Road, 79 Box, Nanjing, China, 211816"
+  employer         : "Department of Computer Science and Technology, Nanjing Tech University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AT0fotQAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "hshen@njtech.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Hang_Shen"
   uri              :
