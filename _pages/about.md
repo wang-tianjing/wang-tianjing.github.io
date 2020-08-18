@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Pages template for academic personal websites"
+title: " Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+He is currently an Associate Professor in the [Department of Computer Science & Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/), Nanjing, China. He received a Ph.D. degree (with honors) in Computer Science from the [Nanjing University of Science & Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) at the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), [Department of Electrical & Computer Engineering](https://ece.uwaterloo.ca/Home/), [University of Waterloo](https://uwaterloo.ca/), Waterloo, ON, Canada, from 2018 to 2019. His research interests involve network slicing, space-air-ground integrated networks, and blockchain. He is/was an Associate Editor for the *IEEE Access*, an Academic Editor for the *Mathematical Problems in Engineering* and a Guest Editor for the *Peer-to-Peer Networking and Applications*. He was a Ph.D. Student National Scholarship Fellow in 2012. He is/was supported by the National Natural Science Foundation of China, the Natural Science Foundation of Jiangsu Province, and other research projects. He is a member of IEEE, a member of the IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS), a member of ACM, Executive Committee Member of ACM Nanjing Chapter.
 
 Recent Highlights
 ======
