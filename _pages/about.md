@@ -14,10 +14,20 @@ redirect_from:
 
 Hang Shen is currently an Associate Professor in the [Department of Computer Science & Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/), Nanjing, China. He received a Ph.D. degree (with honors) in Computer Science from the [Nanjing University of Science & Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) at the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), [Department of Electrical & Computer Engineering](https://ece.uwaterloo.ca/Home/), [University of Waterloo](https://uwaterloo.ca/), Waterloo, ON, Canada, from 2018 to 2019. His research interests involve network slicing, space-air-ground integrated networks, and blockchain. He is/was an Associate Editor for the *IEEE Access*, an Academic Editor for the *Mathematical Problems in Engineering* and a Guest Editor for the *Peer-to-Peer Networking and Applications*. He was a Ph.D. Student National Scholarship Fellow in 2012. He is/was supported by the National Natural Science Foundation of China, the Natural Science Foundation of Jiangsu Province, and other research projects. He is a member of IEEE, a member of the IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS), a member of ACM, Executive Committee Member of ACM Nanjing Chapter.
 
-Recent Highlights
+Contact Info
 ======
 
-- Jun. 2020: Dr. Hang Shen was invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
+Department of Computer Science and Technology 
+
+Nanjing Tech University
+
+30 South Puzhu Road, 79 Box, Nanjing, China, 211816
+
+Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
+
+HomePage: https://shen-hang.github.io/, https://sites.google.com/view/hshen
+
+My Professional Websites: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=AT0fotQAAAAJ&view_op=list_works&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Hang_Shen), [LinkedIn](http://www.linkedin.com/in/hangshen), [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shen:Hang.html)
 
 Recent Highlights
 ======
