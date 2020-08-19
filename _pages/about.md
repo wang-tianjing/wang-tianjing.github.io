@@ -15,11 +15,17 @@ Hang Shen is currently an Associate Professor in the [Department of Computer Sci
 Contact Info
 ======
 欢迎对科研感兴趣的同学报本人研究生！
+
 Department of Computer Science and Technology, Nanjing Tech University
+
 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 
+
 Phone&FAX: +86-25-58139500
+
 Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
+
 HomePage: https://shen-hang.github.io/, https://sites.google.com/view/hshen
+
 My Professional Websites: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=AT0fotQAAAAJ&view_op=list_works&sortby=pubdate), [ResearchGate](https://www.researchgate.net/profile/Hang_Shen), [LinkedIn](http://www.linkedin.com/in/hangshen), [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shen:Hang.html)
 
 Recent Highlights
