@@ -15,7 +15,7 @@ Academic Editor for the *Mathematical Problems in Engineering* and a Guest Edito
 
 Contact Info
 ======
-**欢迎对科研感兴趣的同学报本人研究生！**
+`**欢迎对科研感兴趣的同学报本人研究生！**`
 
 Department of Computer Science and Technology, Nanjing Tech University
 
@@ -31,8 +31,8 @@ My Professional Websites: [Google Scholar](https://scholar.google.com/citations?
 
 Recent Highlights
 ======
-- Jun. 2020: Dr. Hang Shen was invited to join the Editorial Board of `《Mathematical Problems in Engineering》` (SCI-Indexed).
-- Jun. 2020: `Natural Science Foundation of Jiangsu Province` has been approved to be funded form 2020/07-2022/06.
+- Jun. 2020: Dr. Hang Shen was invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
+- Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06.
 - Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020.
 - Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019.
 - Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06. 
