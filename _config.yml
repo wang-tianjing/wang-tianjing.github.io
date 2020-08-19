@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hang Shen (沈航) / Site Title"
+title                    : "Hang Shen (沈航) / HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hang Shen (沈航)"
+  name             : "Dr. Hang Shen (沈航)"
   avatar           : "profile.png"
-  bio              : "南京工业大学副教授，南京理工大学优秀博士毕业生/优秀博士学位论文/博士生国奖获得者，加拿大滑铁卢大学电子与计算机工程系BBCR实验室博士后，入选江苏省“六大人才高峰”高层次人才计划。"
+  bio              : "南京工业大学计算机科学与技术学院副教授"
   location         : #"Nanjing"
   employer         : #"Nanjing Tech University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
