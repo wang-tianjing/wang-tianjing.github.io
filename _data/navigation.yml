@@ -7,6 +7,9 @@ main:
   - title: "Publications"
     url: /publications-2/ 
 
+  - title: "Research Grants"
+    url: /grants/ 
+
   - title: "Achievements"
     url: /achievements/ 
 
