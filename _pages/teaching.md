@@ -7,7 +7,11 @@ redirect_from:
   - /teaching.html
 ---
 
-- Computer Networks (计算机网络) (Spring 2016, Spring 2017, Spring 2020) 
+> Title: Computer Networks (计算机网络)
+>
+> Class Time: Spring 2016, Spring 2017, Spring 2020
+>
+> Type: Undergraduate course
 
 
 |                   |                                                              |
@@ -32,4 +36,30 @@ redirect_from:
 | Process               | Preliminary: [fork函数详解](http://blog.csdn.net/jason314/article/details/5640969), [使用GDB调试多进程程序](https://www.ibm.com/developerworks/cn/linux/l-cn-gdbmp/)<br/>IPC: [管道](https://www.ibm.com/developerworks/cn/linux/l-ipc/part1/), [信号(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html), [信号(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index2.html), [消息队列](https://www.ibm.com/developerworks/cn/linux/l-ipc/part3/), [信号灯](https://www.ibm.com/developerworks/cn/linux/l-ipc/part4/), [共享内存(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index1.html), [共享内存(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index2.html), [套接口](https://www.ibm.com/developerworks/cn/linux/l-ipc/part6/) |
 | POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
+
+- Internet of Things (物联网导论) (Fall 2015, Fall 2016, Fall 2017, Fall 2019)
+
+|               |                                                              |
+| ------------- | ------------------------------------------------------------ |
+| Textbook      | 《物联网导论（第3版）》，作者：刘云浩，出版社：科学出版社    |
+| 参考课件      | [参考课件下载(7ehx)](https://pan.baidu.com/s/18BqFFIONbQyPjJcwGxjavA) |
+| RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
+| 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
+| 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
+
+- Mobile Internet (移动互联网) (Fall 2019)
+
+|               |                                                              |
+| ------------- | ------------------------------------------------------------ |
+| Textbook      | 《移动互联网（第2版）》，作者：王新兵，出版社：清华大学出版社 |
+| 基本概念      | [LTE基础概念](http://blog.csdn.net/wangkai_123456/article/details/77948540)*,* [天线科普](https://blog.csdn.net/zq07506149/article/details/80091140)*,* [信道极限容量](https://blog.csdn.net/cainv89/article/details/50582967) |
+| 5G            | [5G科普](http://network.51cto.com/art/201812/589511.htm)*,* [4G 5G区别](https://blog.csdn.net/csdnnews/article/details/93429083)*,* [5G接入网+承载网+核心网](https://blog.csdn.net/bingfeilongxin/article/details/93138651) |
+| 关键技术      | [多址接入技术](https://blog.csdn.net/jxwxg/article/details/53366657)*,* [OFDM原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)*,* [移动IP](https://blog.csdn.net/williananjhon/article/details/90748688)*,* [数字签名](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)*,* [哈希锁](https://www.jianshu.com/p/d78196150350?utm_campaign) |
+| 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
+
+- Wireless Networks & Mobile Computing (Spring 2016, Fall 2017) 
+
+|           |                                                              |
+| --------- | ------------------------------------------------------------ |
+| Reference | 1. 《移动互联网导论（第2版）》, 作者：王新兵，出版社：清华大学出版社 <br/>2. 《从互联到新工业革命》, 作者：刘云浩，出版社：清华大学出版社 |
 
