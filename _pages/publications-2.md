@@ -4,7 +4,7 @@ title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /Publications-2.html
+  - /publications-2.html
 ---
 
 ## Locations of key files/directories
