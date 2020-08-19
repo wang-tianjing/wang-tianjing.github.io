@@ -73,7 +73,7 @@ Useful Links
 - CFP:  [WikiCFP](http://www.wikicfp.com/cfp/home)
 - Mathwords:  [Terms and Formulas from Beginning Algebra to Calculus](http://www.mathwords.com/)
 - gnuplot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/) 
-- Open Source: [Google Developers](https://developers.google.com/open-source/),  [Web Design (oswd)](http://www.oswd.org/), [Web Design Templates](http://www.opendesigns.org/), [Software for free](https://sourceforge.net/)
+- Open Source: [Google Developers](https://developers.google.com/open-source/),  [Software for free](https://sourceforge.net/)
 - Text Formatting with LaTeX
   - [LaTeX编辑部](http://zzg34b.w3.c361.com/index.htm), [华东师范大学数学系 LaTeX 教学](http://math.ecnu.edu.cn/~latex/), [学位论文Latex模板](https://code.google.com/p/scutthesis/wiki/latex_template_list)
   - [Collaborative Writing and Publishing](https://www.overleaf.com/), [Emacs+LaTeX快速上手](http://cs2.swfc.edu.cn/~wx672/lecture_notes/linux/latex/latex_tutorial.html), [Emacs as the LaTeX Editor](http://piotrkazmierczak.com/2010/emacs-as-the-ultimate-latex-editor/)
