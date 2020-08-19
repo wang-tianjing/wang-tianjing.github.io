@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-Computer Networks (计算机网络) - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
+Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 
 
 | Item              | Links & Description                                          |
@@ -21,7 +21,7 @@ Computer Networks (计算机网络) - Undergraduate course - Spring 2016, Spring
 | Transport Layer   | [端到端vs点到点](https://blog.csdn.net/qq_34940959/article/details/78583993)*,* [TCP为什么要3次握手](https://blog.csdn.net/lengxiao1993/article/details/82771768)*,* [为什么是四次挥手不是三次挥手](https://blog.csdn.net/judgejames/article/details/86654689)*,* <br/>[面向连接VS无连接](http://blog.csdn.net/goodboy1881/article/details/755248), [流量控制vs拥塞控制](https://www.zhihu.com/question/38749788)*,* [UDP协议](http://blog.csdn.net/goodboy1881/article/details/713856), [广播/多播/IGMP协议](http://blog.csdn.net/goodboy1881/article/details/726860), <br/>[TCP协议概述](http://blog.csdn.net/goodboy1881/article/details/741087), [TCP控制位](https://www.cnblogs.com/bonelee/p/9077266.html), [TCP连接建立与中止](http://blog.csdn.net/goodboy1881/article/details/744534), [TCP交互数据流/成块数据流](http://blog.csdn.net/goodboy1881/article/details/745606), <br/>[TCP超时与重传](http://blog.csdn.net/goodboy1881/article/details/755248), [TCP坚持/保活定时器](http://blog.csdn.net/goodboy1881/article/details/758034)*,* [TCP快速重传为什么是三次冗余ACK](https://www.zhihu.com/question/21789252) |
 | Appliaction Layer | [DNS域名系统](http://blog.csdn.net/goodboy1881/article/details/743816) |
 
-Linux Programming (Linux编程) - Undergraduate course - Spring 2015, Spring 2016, Spring 2017)
+Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
 | Item                  | Links & Description                                          |
 | --------------------- | ------------------------------------------------------------ |
@@ -32,7 +32,7 @@ Linux Programming (Linux编程) - Undergraduate course - Spring 2015, Spring 201
 | POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
 
-Internet of Things (物联网导论) - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019
+Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
@@ -42,7 +42,7 @@ Internet of Things (物联网导论) - Undergraduate course - Fall 2015, Fall 20
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
-Mobile Internet (移动互联网) - Undergraduate course - Fall 2019
+Mobile Internet - Undergraduate course - Fall 2019
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
