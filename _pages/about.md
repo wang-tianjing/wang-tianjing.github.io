@@ -82,6 +82,5 @@ Useful Links
   - [Ex­cel2LaTeX – Con­vert Ex­cel spread­sheets to LATEX ta­bles](https://www.ctan.org/tex-archive/support/excel2latex/), [Tables Generator](http://www.tablesgenerator.com/)
   - [Powerpoint](http://www.latextemplates.com/template/beamer-presentation), [CV](http://www.latextemplates.com/cat/curricula-vitae), [Making Poster](http://www.latextemplates.com/cat/curricula-vitae), [Making a poster in beamer](http://robjhyndman.com/hyndsight/beamer-poster/), [Beamer Poster Theme and Template](http://www.shawnlankton.com/2008/06/latex-beamer-poster-theme-and-template/)
   - [How to embed all fonts in PDF](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)
-  - gnuplot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/) 
 
 
