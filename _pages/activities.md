@@ -7,9 +7,6 @@ redirect_from:
   - /activities.html
 ---
 
-Academic Activities
-======
-
 - Associate Editor, IEEE Access (2020-present)
 - Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
 - Guest Editor, Peer-to-Peer Networking and Applications (2018)
