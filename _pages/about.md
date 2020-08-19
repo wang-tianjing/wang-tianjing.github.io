@@ -70,7 +70,7 @@ Academic Activities
 Useful Links
 ======
 
-- Paper Search:  [Semantic Scholar](https://www.semanticscholar.org/), [Microsoft Academic](https://academic.microsoft.com/), [必应学术](http://cn.bing.com/academic), [CiteSeer](http://citeseer.ist.psu.edu/cis), [IEEE Xplore](http://ieeexplore.ieee.org/), [ACM Portal](http://dl.acm.org/)
+- Paper Search:  [Semantic Scholar](https://www.semanticscholar.org/), [Microsoft Academic](https://academic.microsoft.com/), [CiteSeer](http://citeseer.ist.psu.edu/cis), [IEEE Xplore](http://ieeexplore.ieee.org/), [ACM Portal](http://dl.acm.org/)
 - CFP:  [WikiCFP](http://www.wikicfp.com/cfp/home)
 - Mathwords:  [Terms and Formulas from Beginning Algebra to Calculus](http://www.mathwords.com/)
 - gnuplot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/) 
