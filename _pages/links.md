@@ -7,9 +7,6 @@ redirect_from:
   - /links.html
 ---
 
-Useful Links
-======
-
 - Paper Search:  [Semantic Scholar](https://www.semanticscholar.org/), [Microsoft Academic](https://academic.microsoft.com/), [CiteSeer](http://citeseer.ist.psu.edu/cis), [IEEE Xplore](http://ieeexplore.ieee.org/), [ACM Portal](http://dl.acm.org/)
 - CFP:  [WikiCFP](http://www.wikicfp.com/cfp/home)
 - Mathwords:  [Terms and Formulas from Beginning Algebra to Calculus](http://www.mathwords.com/)
