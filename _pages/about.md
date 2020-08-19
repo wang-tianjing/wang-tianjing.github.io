@@ -46,8 +46,7 @@ Recent Highlights
 - Dec. 2018: Our manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jul. 2018: Our paper “QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”  is published by IEEE Transactions on Vehicular Technology (SCI).
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF Rank).
-- Jul. 2018: Our paper “Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
-- Jul. 2018: Our paper “Incentivizing Multimedia Data Acquisition for Machine Learning System” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
+- Jul. 2018: Two papers are accepted as a full paper in ICA3PP 2018 (CCF Rank). 
 
 Academic Activities
 ======
