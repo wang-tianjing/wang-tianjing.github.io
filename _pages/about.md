@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-南京工业大学副教授，南京理工大学优秀博士毕业生/优秀博士学位论文/博士生国奖获得者，加拿大滑铁卢大学电子与计算机工程系BBCR实验室博士后(合作导师：Weihua Zhuang院士)。入选江苏省“六大人才高峰”高层次人才计划。主要研究领域为网络切片、空天地一体化网络、区块链等。以第一作者在主流SCI期刊和旗舰会议发表论文10余篇，授权国家发明专利14项。担任SCI期刊《IEEE Access》、《Mathematical Problems in Engineering》编委/Associate Editor，以及《Peer-to-Peer Networking and Applications》客座编委。参编Springer专著《Encyclopedia of Wireless Networks》。获得江苏省网络与云计算会议和南京市自然科学优秀论文奖(排名第一)。指导研究生获得国家奖学金/校优秀毕业研究生。主持国家自然科学基金，江苏省自然科学基金，江苏省高校自然科学研究项目、江苏省六大人才高峰计划项目、计算机软件新技术国家重点实验室(南京大学)资助项目、通信与网络技术国家工程研究中心(南京邮电大学)资助项目。沈航博士是ACM会员、ACM南京分会执委，IEEE会员、IEEE通信学会会员、IEEE车载技术学会会员，CCF会员、CCF网络与数据通信专委会会员。
+南京工业大学副教授，南京理工大学优秀博士毕业生/优秀博士学位论文/博士生国奖获得者，加拿大滑铁卢大学电子与计算机工程系BBCR实验室博士后(合作导师：Weihua Zhuang院士)。入选江苏省“六大人才高峰”高层次人才计划。主要研究领域为网络切片、空天地一体化网络、区块链等。以第一作者在主流SCI期刊和旗舰会议发表论文10余篇，授权国家发明专利14项。担任SCI期刊《IEEE Access》、《Mathematical Problems in Engineering》编委/Associate Editor，以及《Peer-to-Peer Networking and Applications》客座编委。参编Springer专著《Encyclopedia of Wireless Networks》。获得江苏省网络与云计算学术会议和南京市自然科学优秀论文奖(排名第一)。指导研究生获得国家奖学金/校优秀毕业研究生。主持国家自然科学基金，江苏省自然科学基金，江苏省高校自然科学研究项目、江苏省六大人才高峰计划项目、计算机软件新技术国家重点实验室(南京大学)资助项目、通信与网络技术国家工程研究中心(南京邮电大学)资助项目。沈航博士是ACM会员、ACM南京分会执委，IEEE会员、IEEE通信学会会员、IEEE车载技术学会会员，CCF会员、CCF网络与数据通信专委会会员。
 
 Hang Shen is currently an Associate Professor in the [Department of Computer Science & Technology](http://cise.njtech.edu.cn/) at [Nanjing Tech University](http://www.njtech.edu.cn/), Nanjing, China. He received a Ph.D. degree (with honors) in Computer Science from the [Nanjing University of Science & Technology](http://www.njust.edu.cn/). He worked as a Full-Time Postdoctoral Fellow under the supervision of Prof. Weihua Zhuang (IEEE Fellow) at the [Broadband Communications Research (BBCR) Lab](https://uwaterloo.ca/broadband-communications-research-lab/), [Department of Electrical & Computer Engineering](https://ece.uwaterloo.ca/Home/), [University of Waterloo](https://uwaterloo.ca/), Waterloo, ON, Canada, from 2018 to 2019. His research interests involve network slicing, space-air-ground integrated networks, and blockchain. He is/was an Associate Editor for the *IEEE Access*, an Academic Editor for the *Mathematical Problems in Engineering* and a Guest Editor for the *Peer-to-Peer Networking and Applications*. He was a Ph.D. Student National Scholarship Fellow in 2012. He is/was supported by the National Natural Science Foundation of China, the Natural Science Foundation of Jiangsu Province, and other research projects. He is a member of IEEE, a member of the IEEE Communications Society (ComSoc), and IEEE Vehicular Technology Society (VTS), a member of ACM, Executive Committee Member of ACM Nanjing Chapter.
 
@@ -34,37 +34,20 @@ Recent Highlights
 - Jul. 2018: Our paper “Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
 - Jul. 2018: Our paper “Incentivizing Multimedia Data Acquisition for Machine Learning System” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Academic Activities
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+- Associate Editor, IEEE Access (2020-present)
+- Academic Editor, Mathematical Problems in Engineering (MPE) (2020-present)
+- Guest Editor, Peer-to-Peer Networking and Applications (2018)
+- Reviewer, IEEE Transactions on Vehicular Technology, IEEE Systems Journal, ACM/Springer Wireless Network, Elsevier Robotics and Autonomous Systems, Springer Multimedia Tools and Applications
+- Member, Institute of Electrical and Electronics Engineers (IEEE) (2018-present)
+- Member, IEEE Communications Society (2019-present)
+- Member, IEEE Vehicular Technology Society (2020-present)
+- Member, Association for Computing Machinery (ACM) (2015-present)
+- Executive Committee Member, ACM Nanjing Chapter (2014-present)
+- Member, China Computer Federation (CCF) (2011-present)
+- Technical Committee Member, CCF Network and Data Communications (TCCOMM) (2015-present)
+- Technical Committee Member, Jiangsu Computer Society Big Data (2017-present)
+- Technical Committee Member, Jiangsu Computer Society Computers and Communications (2018-present)
+- TPC Member, International Conference on Advanced Cloud and Big Data (CBD) (2015-2018)
+- TPC Member, Conference on Network and Data Communications in China (NDCC) (2016, 2018)
