@@ -31,23 +31,23 @@ My Professional Websites: [Google Scholar](https://scholar.google.com/citations?
 
 Recent Highlights
 ======
-- [ ] Jun. 2020: Dr. Hang Shen was invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
-- [ ] Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06.
-- [ ] Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020.
-- [ ] Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019.
-- [ ] Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06. 
-- [ ] May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI).
-- [ ] May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group.
-- [ ] Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04.
-- [ ] Mar. 2019: Our paper is accepted in Springer Wireless Personal Communications (SCI).
-- [ ] Feb. 2019: Our paper “Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach” is accepted as a regular paper by  IEEE ICC 2019 - 2019 IEEE International Conference on Communications (ICC) (CCF Rank).
-- [ ] Feb. 2019: Our manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
-- [ ] Jan. 2019: Our paper is accepted by Elsevier Journal of Systems Architecture (CCF Rank, SCI).
-- [ ] Dec. 2018: Our manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
-- [ ] Jul. 2018: Our paper “QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”  is published by IEEE Transactions on Vehicular Technology (SCI).
-- [ ] Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF Rank).
-- [ ] Jul. 2018: Our paper “Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
-- [ ] Jul. 2018: Our paper “Incentivizing Multimedia Data Acquisition for Machine Learning System” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
+- Jun. 2020: Dr. Hang Shen was invited to join the Editorial Board of `《Mathematical Problems in Engineering》` (SCI-Indexed).
+- Jun. 2020: `Natural Science Foundation of Jiangsu Province` has been approved to be funded form 2020/07-2022/06.
+- Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020.
+- Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019.
+- Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06. 
+- May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI).
+- May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group.
+- Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04.
+- Mar. 2019: Our paper is accepted in Springer Wireless Personal Communications (SCI).
+- Feb. 2019: Our paper “Detecting Link Correlation Spoofing Attack: A Beacon-Trap Approach” is accepted as a regular paper by  IEEE ICC 2019 - 2019 IEEE International Conference on Communications (ICC) (CCF Rank).
+- Feb. 2019: Our manuscript “Urban Big Data” has been accepted by Springer Encyclopedia of Wireless Networks.
+- Jan. 2019: Our paper is accepted by Elsevier Journal of Systems Architecture (CCF Rank, SCI).
+- Dec. 2018: Our manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
+- Jul. 2018: Our paper “QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation”  is published by IEEE Transactions on Vehicular Technology (SCI).
+- Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF Rank).
+- Jul. 2018: Our paper “Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
+- Jul. 2018: Our paper “Incentivizing Multimedia Data Acquisition for Machine Learning System” is accepted as a full paper in ICA3PP 2018 (CCF Rank). 
 
 Academic Activities
 ======
