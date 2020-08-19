@@ -81,5 +81,4 @@ Useful Links
   - [Powerpoint](http://www.latextemplates.com/template/beamer-presentation), [CV](http://www.latextemplates.com/cat/curricula-vitae), [Making Poster](http://www.latextemplates.com/cat/curricula-vitae), [Making a poster in beamer](http://robjhyndman.com/hyndsight/beamer-poster/), [Beamer Poster Theme and Template](http://www.shawnlankton.com/2008/06/latex-beamer-poster-theme-and-template/)
   - [How to embed all fonts in PDF](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)
   - gnuplot: [Demo scripts](http://gnuplot.sourceforge.net/demo/), [Clustered/Stacked Filled Bar Graph Generator](http://www.burningcutlery.com/derek/bargraph/) 
-
-- Open Source：[Programs Office | Google Developers](https://developers.google.com/open-source/),  [Web Design (oswd)](http://www.oswd.org/), [Web Design Templates](http://www.opendesigns.org/), [Software for free](https://sourceforge.net/)
+- Open Source: [Programs Office | Google Developers](https://developers.google.com/open-source/),  [Web Design (oswd)](http://www.oswd.org/), [Web Design Templates](http://www.opendesigns.org/), [Software for free](https://sourceforge.net/)
