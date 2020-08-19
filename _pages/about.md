@@ -16,7 +16,7 @@ Hang Shen is currently an Associate Professor in the [Department of Computer Sci
 
 Contact Info
 ======
-<font color=#FF0000>  **欢迎感兴趣的同学报本人研究生；欢迎本科同学参与科研项目实践；有意者请随时与我联系。** </font>
+  **欢迎感兴趣的同学报本人研究生；欢迎本科同学参与科研项目实践；有意者请随时与我联系。**
 
 Department of Computer Science and Technology, Nanjing Tech University
 
