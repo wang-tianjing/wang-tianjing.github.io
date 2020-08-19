@@ -2,7 +2,7 @@
 main:
 
   - title: "Hello"
-    url: /Hello/
+    url: /hello/ 
 
   - title: "Publications"
     url: /publications/
