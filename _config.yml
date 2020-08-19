@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hang Shen (沈航)"
   avatar           : "profile.png"
-  bio              : "He is currently an Associate Professor in the Department of Computer Science & Technology at Nanjing Tech University, Nanjing, China. He received a Ph.D. degree (with honors) in Computer Science from the Nanjing University of Science & Technology."
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Nanjing"
   employer         : #"Nanjing Tech University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
