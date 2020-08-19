@@ -1,10 +1,10 @@
 ---
 title: "Computer Networks (计算机网络)"
 collection: teaching
-#type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/teaching-1
-venue: "University 1, Department"
-date: "Spring 2016, Spring 2017, Spring 2020"
+venue: "Nanjing Tech University"
+date: "2020-02"
 #location: "City, Country"
 ---
 
