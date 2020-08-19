@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "Hello"
+    url: /Hello/
+
   - title: "Publications"
     url: /publications/
 
@@ -18,5 +22,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
