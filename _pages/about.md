@@ -23,7 +23,7 @@ Academic Editor for the *Mathematical Problems in Engineering* and a Guest Edito
 
 Contact Info
 ======
-#### **欢迎对科研感兴趣的同学报本人研究生！**
+**欢迎对科研感兴趣的同学报本人研究生！**
 
 Department of Computer Science and Technology, Nanjing Tech University
 
