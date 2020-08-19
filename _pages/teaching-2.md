@@ -1,6 +1,6 @@
 ---
 permalink: /teaching-2/
-title: "Research Grants"
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
