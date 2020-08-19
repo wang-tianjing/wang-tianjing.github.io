@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Academic Activities"
-    url: /activities/ 
-
   - title: "Publications"
     url: /publications/ 
+  
+  - title: "Academic Activities"
+    url: /activities/ 
 
   - title: "Research Grants"
     url: /grants/ 
