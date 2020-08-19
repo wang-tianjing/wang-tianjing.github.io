@@ -5,7 +5,7 @@ main:
     url: /activities/ 
 
   - title: "Publications"
-    url: /publications-2/ 
+    url: /publications/ 
 
   - title: "Research Grants"
     url: /grants/ 
