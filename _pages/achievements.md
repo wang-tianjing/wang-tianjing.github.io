@@ -7,7 +7,7 @@ redirect_from:
   - /achievements.html
 ---
 
-| Year |                                                              |
+| Year | **Description**                                              |
 | ---- | ------------------------------------------------------------ |
 | 2019 | 1.“Talent in Six Peak Disciplines” of Jiangsu Province (江苏省六大人才高峰高层次人才计划)<br/>2. Innovation Talent Support Program of Nanjing Tech University (南工英才创新人才支持计划) |
 | 2018 | First Prize for Teaching Competition for Young Teachers in the School of Computer Science & Technology at Nanjing Tech University (南工计算机学院青年教师授课大赛一等奖) |
