@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Hang Shen (沈航)"
   avatar           : "pic.jpg"
-  bio              : #"山不过来，我就过去。"
+  bio              : #"  "
   location         : #"Nanjing"
-  employer         : "Nanjing Tech University"
+  employer         : #"Nanjing Tech University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AT0fotQAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "hshen@njtech.edu.cn"
