@@ -7,11 +7,11 @@ main:
   - title: "Academic Activities"
     url: /activities/ 
 
-  - title: "Research Grants"
-    url: /grants/ 
-
   - title: "Achievements"
     url: /achievements/ 
+
+  - title: "Research Grants"
+    url: /grants/ 
 
   #- title: "Publications"
   #  url: /publications/
