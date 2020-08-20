@@ -20,13 +20,13 @@ Department of Computer Science and Technology, Nanjing Tech University<br/>Addr:
 
 Recent Highlights
 ======
-- Jun. 2020: Dr. Hang Shen was invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
-- Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06.
-- Apr. 2020: Congrats!!! Graduate student Yue Wang (汪悦) has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020.
-- Nov. 2019: Congrats!! Graduate student Yiren Gu (顾伊人) has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019.
+- Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
+- Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (江苏省自然科学基金面上项目获得立项)
+- Apr. 2020: Congrats!!! Graduate student Yue Wang has been recommended by the Postgraduate Research & Practice Innovation Program of Jiangsu Province (RMB 15,000) in the year 2020 (研究生汪悦申报的江苏省科研与实践创新计划项目获得立项).
+- Nov. 2019: Congrats!! Graduate student Yiren Gu has been elected as National Scholarship Fellow (RMB 20,000) in the year 2019 (研究生顾伊人获得国家奖学金).
 - Jun 2019: Dr. Hang Shen has been elected as “the Talent in Six Peak Disciplines” of Jiangsu Province, funded from 2019/07 to 2022/06. 
-- May 2019: Our paper is accepted by Springer Multimedia Systems (CCF Rank, SCI).
-- May 2019: Graduate student Jiajia Xu (徐佳佳) participated in IEEE ICC on behalf of our research group.
+- May 2019: The paper of graduate student Yiren Gu is accepted by Springer Multimedia Systems (CCF Rank, SCI) (研究生顾伊人的论文被CCF推荐SCI期刊Multimedia Systems录用).
+- May 2019: Graduate student Jiajia Xu participated in IEEE ICC on behalf of our research group (研究生徐佳佳代表课题组在IEEE ICC汇报研究工作).
 - Apr. 2019: Privacy Protection Project of Jiangsu Key Laboratory we applied for has been approved to be funded from 2019/05 to 2021/04.
 - Mar. 2019: Our paper is accepted in Springer Wireless Personal Communications (SCI).
 - Feb. 2019: Our paper is accepted by  IEEE ICC 2019 - 2019 IEEE International Conference on Communications (ICC) (CCF Rank).
@@ -35,6 +35,7 @@ Recent Highlights
 - Dec. 2018: Our manuscript “privacy game” has been accepted by Springer Encyclopedia of Wireless Networks.
 - Jul. 2018: Our paper  is published by IEEE Transactions on Vehicular Technology (SCI).
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF Rank).
-- Jul. 2018: Two papers are accepted as a full paper in ICA3PP 2018 (CCF Rank). 
+- Jul. 2018: The paper of graduate student Yujia Hu is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生胡煜家的论文被CCF推荐国际会议以长文形式录用). 
+- Jul. 2018: The paper of graduate student YIren Gu is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生顾伊人的论文被CCF推荐国际会议以长文形式录用). 
 
 
