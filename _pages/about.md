@@ -16,7 +16,13 @@ Contact Info
 ======
 **欢迎各位同学报本人研究生，也欢迎本科同学参与项目实践，有意者请随时与我联系。**
 
-Department of Computer Science and Technology, Nanjing Tech University<br/>Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>Phone&FAX: +86-25-58139500<br/>Email: hshen@njtech.edu.cn, helloshenhang@gmail.com<br/>HomePage: https://shen-hang.github.io/, https://sites.google.com/view/hshen <br/>
+Department of Computer Science and Technology, Nanjing Tech University
+
+Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 
+
+Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
+
+HomePage: [https://shen-hang.github.io/](https://shen-hang.github.io/), [https://sites.google.com/view/hshen](https://sites.google.com/view/hshen) 
 
 Recent Highlights
 ======
