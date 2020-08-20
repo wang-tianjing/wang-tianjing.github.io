@@ -17,6 +17,6 @@ redirect_from:
 | 2014 | Excellent Ph.D. Graduate of Nanjing University of Science & Technology(南京理工大学优秀博士毕业生) |
 | 2013 | Special Grade Scholarship of Nanjing University of Science & Technology |
 | 2012 | National Scholarship for Ph.D. Students (博士研究生国家奖学金) |
-| 2011 | 1. Best Paper Award at Jiangsu Network and Cloud Computing Conference (Ranked 1) (江苏省网络与分布式计算学术会议最佳论文奖(排名第一))<br/>2. Nanjing Excellent Paper Award in Natural Science (Ranked 3) (南京市第九届自然科学优秀学术论文奖(排名第三)) |
+| 2011 | 1. Best Paper Award at Jiangsu Network and Cloud Computing Conference (Ranked 1) (江苏省网络与分布式计算学术会议最佳论文奖(排名第一))<br/>2. Excellent Paper Award of Nanjing Natural Science (Ranked 3) (南京市第九届自然科学优秀学术论文奖(排名第三)) |
 
 
