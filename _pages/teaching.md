@@ -21,7 +21,16 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 | Transport Layer     | [端到端vs点到点](https://blog.csdn.net/qq_34940959/article/details/78583993)*,* [TCP为什么要3次握手](https://blog.csdn.net/lengxiao1993/article/details/82771768)*,* [为什么是四次挥手不是三次挥手](https://blog.csdn.net/judgejames/article/details/86654689)*,* [面向连接VS无连接](http://blog.csdn.net/goodboy1881/article/details/755248), [流量控制vs拥塞控制](https://www.zhihu.com/question/38749788)*,* [UDP协议](http://blog.csdn.net/goodboy1881/article/details/713856), [广播/多播/IGMP协议](http://blog.csdn.net/goodboy1881/article/details/726860), [TCP协议概述](http://blog.csdn.net/goodboy1881/article/details/741087), [TCP控制位](https://www.cnblogs.com/bonelee/p/9077266.html), [TCP连接建立与中止](http://blog.csdn.net/goodboy1881/article/details/744534), [TCP交互数据流/成块数据流](http://blog.csdn.net/goodboy1881/article/details/745606), [TCP超时与重传](http://blog.csdn.net/goodboy1881/article/details/755248), [TCP坚持/保活定时器](http://blog.csdn.net/goodboy1881/article/details/758034)*,* [TCP快速重传为什么是三次冗余ACK](https://www.zhihu.com/question/21789252) |
 | Appliaction Layer   | [DNS域名系统](http://blog.csdn.net/goodboy1881/article/details/743816) |
 
-计算机网络实验相关问题
+| 计算机网络实验相关问题                                       |
+| ------------------------------------------------------------ |
+| <details> <summary>展开查看</summary> <pre><code> 1、广播帧（broadcast frame）和单播帧(unicast frame)的区别是什么？
+2、从实验中任选一个广播帧，一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。
+3、什么是以太网的帧类型（Ethernet Type）? 它的重要性是什么? </code></pre> </details> |
+|                                                              |
+|                                                              |
+
+
+
 <details>
 <summary>A. 链路层实验</summary>
 <pre><code>1、广播帧（broadcast frame）和单播帧(unicast frame)的区别是什么？
@@ -30,15 +39,14 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 </code></pre>
 </details>
 <details>
-<summary>A. 网络层实验</summary>
-<pre><code>1、 针对实验2.1，试着将ITS 1的interface 1的子网掩码 (subnet mask) 数值改为“255.255.255.255”或“255.255.0.0”。这样一来，ITS 1是不是还可以成功的在这个网络拓扑中传递IP数据报？请分析。
-2、针对实验2.2，在路由规则中，Destination(目的网络)字段与 Mask(掩码)字段如果都设为“0.0.0.0”的话，代表着什么意义？
+<summary>B. 网络层实验</summary>
+<pre><code>1、 针对实验2.1，试着将ITS 1的interface 1的子网掩码 (subnet mask) 数值改为 “255.255.255.255”或“255.255.0.0”。
+这样一来，ITS 1是不是还可以在这个网络拓扑中传递IP数据报？
+2、针对实验2.2，在路由规则中，Destination(目的网络)字段与 Mask(掩码)字段如果都设为“0.0.0.0”的话，代表什么意义？
 3、如果一个 ISP(Internet Services Provider) 要给数十万的网络使用者提供服务，静态路由(static routing)的方式是否可以满足需求？是否有其它的不同类型的路由方式？
 </code></pre>
 </details>
-
-
-
+---
 
 Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
