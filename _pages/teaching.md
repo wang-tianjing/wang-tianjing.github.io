@@ -21,16 +21,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 | Transport Layer     | [端到端vs点到点](https://blog.csdn.net/qq_34940959/article/details/78583993)*,* [TCP为什么要3次握手](https://blog.csdn.net/lengxiao1993/article/details/82771768)*,* [为什么是四次挥手不是三次挥手](https://blog.csdn.net/judgejames/article/details/86654689)*,* [面向连接VS无连接](http://blog.csdn.net/goodboy1881/article/details/755248), [流量控制vs拥塞控制](https://www.zhihu.com/question/38749788)*,* [UDP协议](http://blog.csdn.net/goodboy1881/article/details/713856), [广播/多播/IGMP协议](http://blog.csdn.net/goodboy1881/article/details/726860), [TCP协议概述](http://blog.csdn.net/goodboy1881/article/details/741087), [TCP控制位](https://www.cnblogs.com/bonelee/p/9077266.html), [TCP连接建立与中止](http://blog.csdn.net/goodboy1881/article/details/744534), [TCP交互数据流/成块数据流](http://blog.csdn.net/goodboy1881/article/details/745606), [TCP超时与重传](http://blog.csdn.net/goodboy1881/article/details/755248), [TCP坚持/保活定时器](http://blog.csdn.net/goodboy1881/article/details/758034)*,* [TCP快速重传为什么是三次冗余ACK](https://www.zhihu.com/question/21789252) |
 | Appliaction Layer   | [DNS域名系统](http://blog.csdn.net/goodboy1881/article/details/743816) |
 
-| 计算机网络实验相关问题                                       |
-| ------------------------------------------------------------ |
-| <details> <summary>展开查看</summary> <pre><code> 1、广播帧（broadcast frame）和单播帧(unicast frame)的区别是什么？
-2、从实验中任选一个广播帧，一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。
-3、什么是以太网的帧类型（Ethernet Type）? 它的重要性是什么? </code></pre> </details> |
-|                                                              |
-|                                                              |
-
-
-
+计算机网络实验相关问题：
 <details>
 <summary>A. 链路层实验</summary>
 <pre><code>1、广播帧（broadcast frame）和单播帧(unicast frame)的区别是什么？
@@ -44,10 +35,30 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 这样一来，ITS 1是不是还可以在这个网络拓扑中传递IP数据报？
 2、针对实验2.2，在路由规则中，Destination(目的网络)字段与 Mask(掩码)字段如果都设为“0.0.0.0”的话，代表什么意义？
 3、如果一个 ISP(Internet Services Provider) 要给数十万的网络使用者提供服务，静态路由(static routing)的方式是否可以满足需求？是否有其它的不同类型的路由方式？
+4、在实验2.1和2.2中，两种不同的拓扑结构，路由表有什么不同？
+5、在IP数据报发送的过程中，观察并比较每台主机和路由器收到的同一个IP数据报中TTL的变化？这种变化代表了什么含义？
+6、在IP数据报发送的过程中，观察每台主机和路由器收到的同一个IP数据报的帧结构，比较每段链路上帧头的变化和区别，并解释原因。
+7、针对实验2.3，ITS 的网络路由表是否有错，又或者有缺陷？ 如何解决步骤 7 与 8 中，IP数据报会陷入无穷循环的问题？
+8、针对实验2.2，重新连接网络，使得中间任意两台机器作为主机，其他四台机器作为路由器，随机分配IP 地址，重新配置路由表，完成实验2.2。
+9、发送一个长度小于46字节的IP数据报，观察接收方数据链路层接收数据的情况，并解释该现象。
+</code></pre>
+</details>
+<details>
+<summary>C. 运输层实验</summary>
+<pre><code>1、针对实验3.3，如果在ITS 1 尚未处于监听状态的情形下，我们就从ITS 2 要连接到ITS 1，会发生什么状况？
+2、找出TCP连接建立的三个报文，说明理由。
+3、观察发送窗口和接收窗口的变化。
+4、根据数据发送和接收的过程，理解TCP报文段首部序号和确认号的作用。
+5、观察TCP连接释放的过程。TCP连接半关闭状态下是否可以发送和接收数据？
+</code></pre>
+</details>
+<details>
+<summary>C. 运输层实验</summary>
+<pre><code>1、针对实验4.1，当ITS与指定服务器建立TCP连接后，在编辑框输入的命令不正确时，网站将如何回复？
+2、如果编辑框内输入GET命令，并且能正确收到服务器返回的页面，请从“Network Message Browser”窗口中，分析与GET命令和收到的页面相对应数据的链路层、网络层和运输层封装情况。
 </code></pre>
 </details>
 ---
-
 Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
 | Item                  | Links & Description                                          |
@@ -59,6 +70,7 @@ Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 | POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
 
+---
 Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019
 
 | Item          | Links & Description                                          |
@@ -69,6 +81,7 @@ Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fal
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
+---
 Mobile Internet - Undergraduate course - Fall 2019
 
 | Item          | Links & Description                                          |
@@ -79,6 +92,7 @@ Mobile Internet - Undergraduate course - Fall 2019
 | 关键技术      | [多址接入技术](https://blog.csdn.net/jxwxg/article/details/53366657)*,* [OFDM原理](https://blog.csdn.net/madongchunqiu/article/details/18614233)*,* [移动IP](https://blog.csdn.net/williananjhon/article/details/90748688)*,* [数字签名](http://www.ruanyifeng.com/blog/2011/08/what_is_a_digital_signature.html)*,* [哈希锁](https://www.jianshu.com/p/d78196150350?utm_campaign) |
 | 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
+---
 Wireless Networks & Mobile Computing  - Graduate course - Spring 2016, Fall 2017
 
 | Item      | Description                                                  |
