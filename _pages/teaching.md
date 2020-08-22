@@ -24,8 +24,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 | Appliaction Layer   | [DNS域名系统](http://blog.csdn.net/goodboy1881/article/details/743816) |
 
 ---
-计算机网络实验相关问题：
-<details>
+计算机网络实验相关问题：<details>
 <summary>A. 链路层实验</summary>
 <pre><code>1、广播帧（broadcast frame）和单播帧(unicast frame)的区别是什么？
 2、从实验中任选一个广播帧，一个单播帧，分析这两个帧帧头中每个字段的含义，并比较它们的区别。
