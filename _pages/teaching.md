@@ -37,7 +37,8 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 <pre><code>1、 针对实验2.1，试着将ITS 1的interface 1的子网掩码(subnet mask)数值改为 “255.255.255.255”或“255.255.0.0”。
 这样一来，ITS 1是不是还可以在这个网络拓扑中传递IP数据报？
 2、针对实验2.2，在路由规则中，Destination(目的网络)字段与 Mask(掩码)字段如果都设为“0.0.0.0”的话，代表什么意义？
-3、如果一个ISP(Internet Services Provider)要给数十万的网络使用者提供服务，静态路由(static routing)的方式是否可以满足需求？是否有其它的不同类型的路由方式？
+3、如果一个ISP(Internet Services Provider)要给数十万的网络使用者提供服务，静态路由(static routing)的方式是否可以满足需求？
+是否有其它的不同类型的路由方式？
 4、在实验2.1和2.2中，两种不同的拓扑结构，路由表有什么不同？
 5、在IP数据报发送的过程中，观察并比较每台主机和路由器收到的同一个IP数据报中TTL的变化？这种变化代表了什么含义？
 6、在IP数据报发送的过程中，观察每台主机和路由器收到的同一个IP数据报的帧结构，比较每段链路上帧头的变化和区别，并解释原因。
