@@ -56,11 +56,12 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 </code></pre>
 </details>
 <details>
-<summary>D. 运输层实验</summary>
+<summary>D. 应用层实验</summary>
 <pre><code>1、针对实验4.1，当ITS与指定服务器建立TCP连接后，在编辑框输入的命令不正确时，网站将如何回复？
 2、如果编辑框内输入GET命令，并且能正确收到服务器返回的页面，请从“Network Message Browser”窗口中，分析与GET命令和收到的页面相对应数据的链路层、网络层和运输层封装情况。
 </code></pre>
 </details>
+
 ---
 Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 
