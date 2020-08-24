@@ -1,6 +1,6 @@
 ---
 permalink: /achievements/
-title: "Achievements & Honors"
+title: "Achievements"
 author_profile: true
 redirect_from: 
   - /md/
