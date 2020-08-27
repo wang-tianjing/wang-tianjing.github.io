@@ -13,7 +13,7 @@ redirect_from:
 4. National Engineering Research Center Program of Communications and Networking under Grant No.GCZX012, Privacy-Preserving Vehicular Communications, 2017/07-2019/06, **Principal Investigator**.
 5. National Natural Science Foundation of China under Grant No. 61502230, Research on Network-Coding-Based Data Distribution in Link-Correlated Wireless Networks, 2016/01–2018/12, **Principal Investigator**. 
 6. Natural Science Foundation of Jiangsu Province under Grant No. BK20150960, 2015/07–2018/06, Efficient Network Coding for Wireless Data Distribution Applications, **Principal Investigator**. 
-7. Program of Computer Science Research Center under Grant No. KJR16078, Event Awareness & Information Exchange on the Internet of Multimedia Things, 2016/04–2017/04, Project Leader. 
+7. Program of Computer Science Research Center under Grant No. KJR16078, Event Awareness & Information Exchange on the Internet of Multimedia Things, 2016/04–2017/04, **Principal Investigator**. 
 8. Natural Science Foundation of the Jiangsu Higher Education Institutions of China under Grant No. 15KJB520015, 2015/07–2017/06, **Principal Investigator**. 
 9. Research Innovation Program for College Graduates in Jiangsu Province under Grant No. CXLX11 0262, Research on Communication Protocol in Wireless Multimedia Sensor Networks, 2011/06–2013/06, **Principal Investigator**. 
 10. Scientific & Technological Support Project of Jiangsu Province under Grant No. BK2010548, Real-Time Media Streaming System for Wireless Mobile Internet, 2011/12–2014/12, **Sub-project Leader**. 
