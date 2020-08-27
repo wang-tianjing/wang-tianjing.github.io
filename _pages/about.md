@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " Biography"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -44,7 +44,5 @@ Recent Highlights
 - Jun. 2018: The Special Issue “Fog/Edge Networking for Multimedia Applications” we applied for is accepted in Springer Peer-to-Peer Networking and Applications (CCF Rank).
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生胡煜家的论文被CCF推荐国际会议以长文形式录用). 
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生顾伊人的论文被CCF推荐国际会议以长文形式录用). 
-
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
