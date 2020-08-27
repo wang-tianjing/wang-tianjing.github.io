@@ -9,7 +9,7 @@ redirect_from:
 
 **A. Journal articles (\* indicates the correspondence author)**
 
-1. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Springer Multimedia Systems (MS)*, 2019, 26(1), pp. 3-16. (CCF Rank, SCI)
+1. Yiren Gu, **Hang Shen\***, Guangwei Bai, Tianjing Wang et al. [QoI-Aware Incentive for Multimedia Crowdsensing Enabled Learning System](https://link.springer.com/article/10.1007/s00530-019-00616-w), *Springer Multimedia Systems (MS)*, 2020, 26(1), pp. 3-16. (CCF Rank, SCI)
 2. **Hang Shen,** Guangwei Bai\*, Yujia Hu and Tianjing Wang. [P2TA: Privacy-Preserving Task Allocation for Edge Computing Enhanced Mobile Crowdsensing](https://www.sciencedirect.com/science/article/pii/S138376211830451X), *Elsevier Journal of Systems Architecture (JSA)*, 97(2019), pp. 130-141. (CCF Rank, SCI)
 3. **Hang Shen** and Guangwei Bai\*. [QoS-Guaranteed Wireless Broadcast Scheduling with Network Coding and Rate Adaptation](http://ieeexplore.ieee.org/abstract/document/8291004/), *IEEE Transactions on Vehicular Technology (TVT)*, 2018, 67(7), pp. 6492-6503. (SCI)
 4. **Hang Shen**, Guangwei Bai\*, Junyuan Wang and Lu Zhao. [WGM: Wavelet-Based Gamma Model for Video Traffic in Wireless Multi-hop Networks](https://link.springer.com/article/10.1007/s11277-019-06289-y), *Springer Wireless Personal Communications (WPC)*, 2019, 107(1), pp. 565–587. (SCI)
