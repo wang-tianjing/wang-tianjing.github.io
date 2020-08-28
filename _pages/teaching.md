@@ -106,4 +106,4 @@ Wireless Networks & Mobile Computing  - Graduate course - Spring 2016, Fall 2017
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
+![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
