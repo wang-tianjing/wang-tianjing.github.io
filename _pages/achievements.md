@@ -20,5 +20,4 @@ redirect_from:
 | 2011 | 1. Best Paper Award at Jiangsu Network and Cloud Computing Conference (Ranked 1) (江苏省网络与分布式计算学术会议最佳论文奖(排名第一))<br/>2. Excellent Paper Award of Nanjing Natural Science (Ranked 3) (南京市第九届自然科学优秀学术论文奖(排名第三)) |
 
 ****
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
+![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
