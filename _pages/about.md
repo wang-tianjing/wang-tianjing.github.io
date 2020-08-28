@@ -45,9 +45,5 @@ Recent Highlights
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生胡煜家的论文被CCF推荐国际会议以长文形式录用). 
 - Jul. 2018: Our paper is accepted as a full paper in ICA3PP 2018 (CCF Rank) (研究生顾伊人的论文被CCF推荐国际会议以长文形式录用). 
 
-#![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
+
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
-
-```
-
-```
