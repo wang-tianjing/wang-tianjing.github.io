@@ -23,4 +23,4 @@ redirect_from:
 - TPC Member, International Conference on Advanced Cloud and Big Data (CBD) (2015-2018)
 - TPC Member, Conference on Network and Data Communications in China (NDCC) (2016, 2018)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
+![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
