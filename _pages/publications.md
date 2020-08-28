@@ -32,4 +32,4 @@ redirect_from:
 1. **Hang Shen**.  [Urban Big Data](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_99-1&sa=D&sntz=1&usg=AFQjCNHiVUs35l18lY-et-uwsSb26ZAzLg). In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds) Encyclopedia of Wireless Networks, 2019, DOI: 10.1007/978-3-319-32903-1_312-1, Springer, Cham.
 2. **Hang Shen**. [Privacy Game](https://www.google.com/url?q=https%3A%2F%2Flink.springer.com%2Freferenceworkentry%2F10.1007%2F978-3-319-32903-1_312-1&sa=D&sntz=1&usg=AFQjCNFZg-EMufyNHOSSNMPi75MyNjUzUw). In: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang (eds) Encyclopedia of Wireless Networks. 2019, DOI: 10.1007/978-3-319-32903-1_99-1, Springer, Cham.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
+![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
