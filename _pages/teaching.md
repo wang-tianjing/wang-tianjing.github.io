@@ -57,6 +57,16 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 2、如果编辑框内输入GET命令，并且能正确收到服务器返回的页面，请从“Network Message Browser”窗口中，分析与GET命令和收到的页面相对应数据的链路层、网络层和运输层封装情况。<br/>
 </details>
 
+---
+Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019
+
+| Item          | Links & Description                                          |
+| ------------- | ------------------------------------------------------------ |
+| Textbook      | 《物联网导论（第3版）》，作者：刘云浩，出版社：科学出版社    |
+| 参考课件      | [参考课件下载(7ehx)](https://pan.baidu.com/s/18BqFFIONbQyPjJcwGxjavA) |
+| RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
+| 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
+| 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
 ---
 Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
@@ -69,17 +79,6 @@ Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
 | Process               | Preliminary: [fork函数详解](http://blog.csdn.net/jason314/article/details/5640969), [使用GDB调试多进程程序](https://www.ibm.com/developerworks/cn/linux/l-cn-gdbmp/)<br/>IPC: [管道](https://www.ibm.com/developerworks/cn/linux/l-ipc/part1/), [信号(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index1.html), [信号(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part2/index2.html), [消息队列](https://www.ibm.com/developerworks/cn/linux/l-ipc/part3/), [信号灯](https://www.ibm.com/developerworks/cn/linux/l-ipc/part4/), [共享内存(上)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index1.html), [共享内存(下)](http://www.ibm.com/developerworks/cn/linux/l-ipc/part5/index2.html), [套接口](https://www.ibm.com/developerworks/cn/linux/l-ipc/part6/) |
 | POIX Thread           | Preliminary: [Threads Programming](https://computing.llnl.gov/tutorials/pthreads/), [Pthreads Tutorial](http://randu.org/tutorials/threads/), [GNU Portable Threads](http://www.gnu.org/software/pth/pth-manual.html)<br/>POSIX: [创建多线程](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread1/), [互斥](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread2/), [条件变量](https://www.ibm.com/developerworks/cn/linux/thread/posix_thread3/), [线程池](http://blog.csdn.net/hinyunsin/article/details/6650879/)<br/>Timer: [实现方式](https://www.ibm.com/developerworks/cn/linux/l-cn-timers/), [时钟管理](https://www.ibm.com/developerworks/cn/linux/l-cn-timerm/), [应用层编程](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime1/), [硬件和GLibC库的细节](https://www.ibm.com/developerworks/cn/linux/1307_liuming_linuxtime2/), [内核工作1](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime3/), [内核工作2](https://www.ibm.com/developerworks/cn/linux/1308_liuming_linuxtime4/) |
 | Editor                | VIM: [实用技巧](https://www.ibm.com/developerworks/cn/linux/l-tip-vim1/), [常用插件](https://www.ibm.com/developerworks/cn/linux/l-tip-vim2/), [定制VIM](https://www.ibm.com/developerworks/cn/linux/l-tip-vim3/), [Vimdiff使用](https://www.ibm.com/developerworks/cn/linux/l-vimdiff/), [SpaceVim](http://spacevim.org/)<br/>Emacs: [Emacs Chat](https://plus.google.com/communities/114815898697665598016), [Planet Emacsen](http://planet.emacsen.org/), [EmacsWiki](http://planet.emacsen.org/), [Emacs论坛](https://plus.google.com/communities/114815898697665598016)<br/>Flowchart: [Drakon](http://drakon-editor.sourceforge.net/), [FSME](https://sourceforge.net/projects/fsme/) |
-
----
-Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019
-
-| Item          | Links & Description                                          |
-| ------------- | ------------------------------------------------------------ |
-| Textbook      | 《物联网导论（第3版）》，作者：刘云浩，出版社：科学出版社    |
-| 参考课件      | [参考课件下载(7ehx)](https://pan.baidu.com/s/18BqFFIONbQyPjJcwGxjavA) |
-| RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
-| 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
-| 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
 
 ---
 Mobile Internet - Undergraduate course - Fall 2019
