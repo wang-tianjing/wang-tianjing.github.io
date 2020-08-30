@@ -58,7 +58,7 @@ Computer Networks - Undergraduate course - Spring 2016, Spring 2017, Spring 2020
 </details>
 
 ---
-Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019
+Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fall 2019, Fall 2020
 
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
