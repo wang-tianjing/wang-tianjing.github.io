@@ -43,4 +43,4 @@ redirect_from:
 
 **Be a winner!**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
+![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
