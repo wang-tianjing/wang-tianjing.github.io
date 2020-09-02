@@ -21,14 +21,26 @@ redirect_from:
 
 ------
 
-**饮中八仙歌   杜甫（唐）**
+[**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
 
-知章骑马似乘船，眼花落井水底眠。<br/>汝阳三斗始朝天，道逢麴车口流涎，恨不移封向酒泉。<br/>左相日兴费万钱，饮如长鲸吸百川，衔杯乐圣称避贤。<br/>宗之潇洒美少年，举觞白眼望青天，皎如玉树临风前。<br/>苏晋长斋绣佛前，醉中往往爱逃禅。<br/>李白斗酒诗百篇，长安市上酒家眠。<br/>天子呼来不上船，自称臣是酒中仙。<br/>张旭三杯草圣传，脱帽露顶王公前，挥毫落纸如云烟。<br/>焦遂五斗方卓然，高谈雄辩惊四筵。
+**The winneris always a part of the answer.**
+**The loseris always a part of the problem.**
 
+**The winneralways has a program.**
+**The loseralways has an excuse.**
 
+**The winner says "Let me do it for you.".**
+**The loser says "That's not my job.".**
 
-**桃花庵歌  唐寅（明）**
+**The winner sees an answer for every problem.**
+**The loser sees a problem in every answer.**
 
-桃花坞里桃花庵，桃花庵下桃花仙；<br/>桃花仙人种桃树，又摘桃花卖酒钱。 <br/>酒醒只在花前坐，酒醉还来花下眠；<br/>半醒半醉日复日，花落花开年复年。 <br/>但愿老死花酒间，不愿鞠躬车马前；<br/>车尘马足富者趣，酒盏花枝贫者缘。 <br/>若将富贵比贫贱，一在平地一在天；<br/>若将贫贱比车马，他得驱驰我得闲。<br/>世人笑我忒疯癫，我笑世人看不穿；<br/>记得五陵豪杰墓，无酒无花锄作田。
+**The winner sees a green near every sand trap.**
+**The loser sees two or three sand traps near every green.**
+
+**The winner says "It may be difficult, but it's possible.".**
+**The loser says "It may be possible, but it's too difficult.".**
+
+**Be a winner!**
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shen-hang.github.io)
