@@ -23,22 +23,22 @@ redirect_from:
 
 [**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
 
-**The winneris always a part of the answer.**
+**The winneris always a part of the answer.**<br/>
 **The loseris always a part of the problem.**
 
-**The winneralways has a program.**
+**The winneralways has a program.**<br/>
 **The loseralways has an excuse.**
 
-**The winner says "Let me do it for you.".**
+**The winner says "Let me do it for you.".**<br/>
 **The loser says "That's not my job.".**
 
-**The winner sees an answer for every problem.**
+**The winner sees an answer for every problem.**<br/>
 **The loser sees a problem in every answer.**
 
-**The winner sees a green near every sand trap.**
+**The winner sees a green near every sand trap.**<br/>
 **The loser sees two or three sand traps near every green.**
 
-**The winner says "It may be difficult, but it's possible.".**
+**The winner says "It may be difficult, but it's possible.".**<br/>
 **The loser says "It may be possible, but it's too difficult.".**
 
 **Be a winner!**
