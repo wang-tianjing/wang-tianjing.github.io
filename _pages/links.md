@@ -1,6 +1,6 @@
 ---
 permalink: /links/
-title: "Useful Links"
+title: "Useful Info"
 author_profile: true
 redirect_from: 
   - /md/
