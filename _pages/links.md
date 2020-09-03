@@ -23,11 +23,11 @@ redirect_from:
 
 [**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
 
-**The winneris always a part of the answer.**<br/>
-**The loseris always a part of the problem.**
+**The winner is always a part of the answer.**<br/>
+**The loser is always a part of the problem.**
 
-**The winneralways has a program.**<br/>
-**The loseralways has an excuse.**
+**The winner always has a program.**<br/>
+**The loser always has an excuse.**
 
 **The winner says "Let me do it for you.".**<br/>
 **The loser says "That's not my job.".**
