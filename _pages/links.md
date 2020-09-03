@@ -1,6 +1,6 @@
 ---
 permalink: /links/
-title: "Useful Info"
+title: "Useful Links"
 author_profile: true
 redirect_from: 
   - /md/
@@ -21,7 +21,7 @@ redirect_from:
 
 ------
 
- [**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
+## [**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
 
 **The winner is always a part of the answer.**<br/>
 **The loser is always a part of the problem.**
