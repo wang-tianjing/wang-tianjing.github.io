@@ -20,7 +20,6 @@ redirect_from:
   - [How to embed all fonts in PDF](https://sites.google.com/site/xyzliwen/resource/embed_font_ieee_pdf_explore)
 
 ------
-
 ## [**Winners vs Losers**](http://h-a-s.org/tombaird/winners_vs_losers.htm)
 
 **The winner is always a part of the answer.**<br/>
