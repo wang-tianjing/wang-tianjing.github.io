@@ -22,6 +22,7 @@ Email: hshen@njtech.edu.cn, helloshenhang@gmail.com
 
 Recent Highlights
 ======
+- Sep. 2020: 课题组研究生团队获得中国高校计算机大赛-网络技术挑战赛华东赛区三等奖
 - Jun. 2020: Dr. Hang Shen is invited to join the Editorial Board of 《Mathematical Problems in Engineering》 (SCI-Indexed).
 - Jun. 2020: Natural Science Foundation of Jiangsu Province has been approved to be funded form 2020/07-2022/06 (江苏省自然科学基金面上项目获得立项)
 - Jun. 2020: Congrats!!! Graduate student Yiren Gu has been elected as the outstanding graduate M.S. student of NanjingTech  (研究生顾伊人被评为南工优秀毕业研究生). 
