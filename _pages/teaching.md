@@ -63,10 +63,10 @@ Internet of Things - Undergraduate course - Fall 2015, Fall 2016, Fall 2017, Fal
 | Item          | Links & Description                                          |
 | ------------- | ------------------------------------------------------------ |
 | Textbook      | 《物联网导论（第3版）》，作者：刘云浩，出版社：科学出版社    |
-| 参考课件      | [参考课件下载(ruw4)](https://pan.baidu.com/s/1oJ76NCxfTm4UqLbhUThqiQ) |
+| 参考课件      | [参考课件下载(rx4s)](https://pan.baidu.com/s/1dJMNoDkS6nUIZqXMK_is2A) |
 | RFID          | [RFID原理](https://blog.csdn.net/yuyangyg/article/details/78253069), [RFID攻防](https://blog.csdn.net/sinat_23338865/article/details/71195810) |
 | 定位技术      | [GPS定位基本原理](https://www.cnblogs.com/sddai/p/9692722.html), [AGPS定位机制](https://www.cnblogs.com/prayer521/p/6636457.html) |
-| 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(sa7u)](https://pan.baidu.com/s/1o6WFIN45XVade5eRZkZMMQ) |
+| 作业&文献阅读 | [模板下载](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [PPT汇报参考文献(uf8j)](https://pan.baidu.com/s/1Hdqtx3fph_KPXuzZkJQ83A) |
 
 ---
 Linux Programming - Undergraduate course - Spring 2015, Spring 2016, Spring 2017
