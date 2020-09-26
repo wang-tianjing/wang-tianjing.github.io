@@ -16,7 +16,7 @@ redirect_from:
 - Member, IEEE Vehicular Technology Society (2020-present)
 - Member, Association for Computing Machinery (ACM) (2015-present)
 - Executive Committee Member, ACM Nanjing Chapter (2014-present)
-- Member, China Computer Federation (CCF) (2011-present)
+- Member (2011-2020), Senior Member (2020-present), China Computer Federation (CCF) 
 - Technical Committee Member, CCF Network and Data Communications (TCCOMM) (2015-present)
 - Technical Committee Member, Jiangsu Computer Society Big Data (2017-present)
 - Technical Committee Member, Jiangsu Computer Society Computers and Communications (2018-present)
