@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hang Shen (沈航) / HomePage"
+title                    : "Tianjing wang  (王天荆) / HomePage"
 title_separator          : "-"
-name                     : &name "Hang Shen"
+name                     : &name "Wang tianjing"
 description              : &description "personal description"
 url                      : https://wang-tianjing.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Hang Shen (沈航)"
+  name             : "Dr. Wang tianjing (王天荆)"
   avatar           : "pic.jpg"
   bio              : "  "
   location         : #"Nanjing"
