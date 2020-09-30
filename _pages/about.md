@@ -18,16 +18,6 @@ Department of Computer Science and Technology, Nanjing Tech University<br/>
 Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
 Email: wangtianjing@njtech.edu.cn
 
-主要研究方向：5G网络、区块链、物联网等。
-
-  5G网络研究内容：5G认知网络技术、超密集网络中用户检测和定位技术等。
-
- 区块链研究内容：车联网数据安全技术。
-
- 物联网研究内容：车联网数据感知和处理技术、网络切片技术等。
-
-主要研究工具：深度学习、机器学习、最优化方法。
-
 Recent Highlights
 ======
 -  2020年8月：课题组学生参加”2020中国高校计算机大赛-网络技术挑战赛“。
@@ -44,7 +34,17 @@ Recent Highlights
 
 - 2018年6月：研究生李秀琴获批江苏省科研与实践创新计划项目。
 
-  
+- 主要研究方向：5G网络、区块链、物联网等。
+
+    5G网络研究内容：5G认知网络技术、超密集网络中用户检测和定位技术等。
+
+   区块链研究内容：车联网数据安全技术。
+
+   物联网研究内容：车联网数据感知和处理技术、网络切片技术等。
+
+  主要研究工具：深度学习、机器学习、最优化方法。
+
+- 
 
 
 ![Visitor Count](https://profile-counter.glitch.me/shen-hang/count.svg)
