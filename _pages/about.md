@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-王天荆，博士后，南京工业大学副教授，硕士毕业于南京大学，博士毕业于南京邮电大学，曾于南京邮电大学博士后流动站工作，曾访问 The State University of New York at Stony Brook，Department of Electrical & Computer Engineering。主持国家自然科学基金项目1项、江苏省自然科学基金项目1项、中国博士后基金项目1项、江苏省博士后基金项目1项、教育部产学研协同育人项目1项。近5年在IEEE Access、Journal of Network and Computer Applications、Electronics letter、Sensor、通信学报等国内外期刊上发表论文10余篇；授权和申请国家发明专利12项。  
+王天荆，博士后，南京工业大学副教授，2005年硕士毕业于南京大学，2009年博士毕业于南京邮电大学，2011-2013年于南京邮电大学博士后流动站工作，2011-2013年访问 The State University of New York at Stony Brook，Department of Electrical & Computer Engineering。主持国家自然科学基金项目1项、江苏省自然科学基金项目1项、中国博士后基金项目1项、江苏省博士后基金项目1项、教育部产学研协同育人项目1项、南工大教改课题项目1项。近5年在IEEE Access、Journal of Network and Computer Applications、Electronics letter、Sensor、通信学报等国内外期刊上发表论文10余篇；授权和申请国家发明专利12项。  
 
 # Research Interests
 
@@ -44,11 +44,19 @@ Recent Highlights
 
 - 2020年6月：研究生王敏获批江苏省科研与实践创新计划项目。
 
+- 2019年9月：研究生王敏获批南工大研究生奖学金。
+
 - 2019年6月：课题组学生获“贺利氏杯”南工大研究生科技论坛优胜奖。
 
 - 2018年9月：研究生李秀琴获得南工大研究生奖学金特等奖、“时钧奖学金”。
 
 - 2018年6月：研究生李秀琴获批江苏省科研与实践创新计划项目。
+
+- 2017年9月：指导学生参加全国大学生数学建模竞赛获江苏省三等奖。
+
+- 2017年6月：指导本科生毕业设计“基于Android 《美食达人APP》的设计与开发”获南工大优秀毕业设计（论文）团队。
+
+- 2016年6月：指导本科生毕业设计”基于Android 《地图应用南京掌上公交APP》的设计与开发“获南工大优秀毕业设计（论文）团队。
 
    
 
