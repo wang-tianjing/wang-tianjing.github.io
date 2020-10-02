@@ -1,14 +1,14 @@
 # main links links
 main:
 
-  - title: "Publications"
-    url: /publications/ 
+  - #title: "Publications"
+    #url: /publications/ 
   
-  - title: "Academic Activities"
-    url: /activities/ 
+  - #title: "Academic Activities"
+    #url: /activities/ 
 
-  - title: "Achievements"
-    url: /achievements/ 
+  - #title: "Achievements"
+    #url: /achievements/ 
 
   - title: "Research"
     url: /grants/ 
@@ -19,8 +19,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
     
   #-title: "Useful Info"
     #url: /links/   
