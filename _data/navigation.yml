@@ -10,8 +10,8 @@ main:
   - #title: "Achievements"
     #url: /achievements/ 
 
-  - title: "Research"
-    url: /grants/ 
+  #- title: "Research"
+  #  url: /grants/ 
 
   #- title: "Publications"
   #  url: /publications/
