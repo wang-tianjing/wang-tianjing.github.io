@@ -11,7 +11,7 @@ main:
     #url: /achievements/ 
 
   #- title: "Research"
-  #  url: /grants/ 
+   # url: /grants/ 
 
   #- title: "Publications"
   #  url: /publications/
@@ -22,8 +22,8 @@ main:
   #- title: "Teaching"
    # url: /teaching/    
     
-  #-title: "Useful Info"
-    #url: /links/   
+  -title: "Useful Info"
+    url: /links/   
   
   #- title: "Portfolio"
   #  url: /portfolio/
