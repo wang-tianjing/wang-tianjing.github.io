@@ -4,11 +4,11 @@ main:
   - #title: "Publications"
     #url: /publications/ 
   
-  - #title: "Academic Activities"
-    #url: /activities/ 
+  - title: "Academic Activities"
+    url: /activities/ 
 
-  - title: "Achievements"
-    url: /achievements/ 
+  #- title: "Achievements"
+   # url: /achievements/ 
 
   #- title: "Research"
    # url: /grants/ 
