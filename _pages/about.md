@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-王天荆，博士后，南京工业大学副教授，2005年硕士毕业于南京大学，2009年博士毕业于南京邮电大学，2011-2013年于南京邮电大学博士后流动站工作，2013-2014年访问 The State University of New York at Stony Brook，Department of Electrical & Computer Engineering。主持国家自然科学基金项目1项、江苏省自然科学基金项目1项、中国博士后基金项目1项、江苏省博士后基金项目1项、教育部产学研协同育人项目1项、南工大教改课题项目2项。近5年来在IEEE Access、Journal of Network and Computer Applications、Electronics letter、Sensor、通信学报等国内外期刊上发表论文10余篇；授权和申请国家发明专利12项。  
+王天荆，博士后，南京工业大学副教授，2000年学士毕业于南京师范大学，2005年硕士毕业于南京大学，2009年博士毕业于南京邮电大学，2011-2013年于南京邮电大学博士后流动站工作，2013-2014年访问 The State University of New York at Stony Brook，Department of Electrical & Computer Engineering。主持国家自然科学基金项目1项、江苏省自然科学基金项目1项、中国博士后基金项目1项、江苏省博士后基金项目1项、教育部产学研协同育人项目1项、南工大教改课题项目2项。近5年来在IEEE Access、Journal of Network and Computer Applications、Electronics letter、Sensor、通信学报等国内外期刊上发表论文10余篇；授权和申请国家发明专利12项。  
 
 # Research Interests
 
@@ -38,7 +38,7 @@ Recent Highlights
 
 -  2020年10月：指导本科生完成大学生创新创业课题“基于非侵入式负荷检测与分解的电力大数据处理算法“、”电力窃漏电用户自动识别模型“。
 
--  2020年8月：编写出版研究生教材《数值分析》。
+-  2020年8月：参编出版研究生教材《数值分析》。
 
 -  2020年8月：指导课题组学生参加”2020中国高校计算机大赛-网络技术挑战赛“。
 
