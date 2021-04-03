@@ -26,12 +26,15 @@ Contact Info
 ======
 **欢迎各位同学填报我的研究生，也欢迎本科同学参与项目实践，有意者请随时与我联系。**
 
-Department of Computer Science and Technology, Nanjing Tech University<br/>
-Addr: 30 South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
+Department of Computer South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
 Email: wangtianjing@njtech.edu.cn
+
+​       科研团队包括1位教授、2位副教授，每周召开组会，开阔研究思路、培养团队合作精神、锻炼和提高未来工作能力。
 
 Recent Highlights
 ======
+-  2021年4月：指导课题组学生参加”2021中国高校计算机大赛-网络技术挑战赛“。
+
 -  2020年10月：研究生获国家奖学金（2万元）。
 
 -  2020年10月：指导本科生完成大学生创新创业课题“基于非侵入式负荷检测与分解的电力大数据处理算法“、”电力窃漏电用户自动识别模型“。
