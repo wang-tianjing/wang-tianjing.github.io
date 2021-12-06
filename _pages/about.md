@@ -12,7 +12,7 @@ redirect_from:
 
 主要研究下一代无线网络、区块链和AI技术等。作为负责人主持国家自然科学基金项目、江苏省自然科学基金面上项目、中国博士后基金项目、江苏省博士后基金项目、国家教育部产学研协同育人项目各1项。作为科研骨干参与完成参与国家863计划、国家自然科学基金项目、江苏省自然科学基金项目、江苏省科技支撑计划项目、江苏省未来网络前瞻性研究项目等国家和省部级课题10余项。近年来，在Elsevier Journal of Systems Architecture (JSA)、Elsevier Journal of Network and Computer Applications (JNCA)、Springer Multimedia Systems (MS)、Electronics Letters、IEEE International Conference on Communications (ICC)等主流SCI期刊和国际会议发表论文12篇，在通信学报、电子与信息学报、仪器仪表学报等国内一级学报发表论文5篇。授权和申请国家发明专利15项。
 
-课题组研究生毕业后大多就职于知名IT企业（包括：大华、微众银行、阿里巴巴、微软、爱立信、诺基亚等）。  
+课题组研究生毕业后大多就职于知名IT和通信企业（包括：大华、微众银行、阿里巴巴、微软、展讯、爱立信、诺基亚等）。  
 
 # Research Interests
 
