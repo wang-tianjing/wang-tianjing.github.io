@@ -35,7 +35,7 @@ Contact Info
 Department of Computer South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
 Email: wangtianjing@njtech.edu.cn
 
-​       科研团队包括1位教授、3位副教授，每周召开组会，开阔研究思路、培养团队合作精神、锻炼和提高未来工作能力。
+​       科研团队包括1位教授、3位副教授，每周召开组会讨论在研项目，开阔研究思路、培养团队合作精神、锻炼和提高未来工作能力。
 
 Recent Highlights
 ======
