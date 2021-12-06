@@ -26,7 +26,7 @@ redirect_from:
 
 # Main Research Methods
 
- 深度学习、机器学习、大数据、最优化方法等。
+ 深度学习、机器学习、大数据、最优化方法等
 
 Contact Info
 ======
