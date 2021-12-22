@@ -31,7 +31,7 @@ Contact Info
 **欢迎各位同学填报我的研究生，也欢迎本科同学参与项目实践，有意者请随时与我联系。**
 
 Department of Computer South Puzhu Road, 79 Box, Nanjing, China, 211816 <br/>
-Email: wangtianjing@njtech.edu.cn   QQ：3426470793
+Email: wangtianjing@njtech.edu.cn          QQ：3426470793
 
 ​       科研团队包括1位教授、3位副教授，每周召开组会讨论在研项目，开阔研究思路、培养团队合作精神、锻炼和提高未来工作能力。
 
