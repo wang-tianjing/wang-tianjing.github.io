@@ -10,7 +10,7 @@ redirect_from:
 
 王天荆，女，博士后，副教授，硕士生导师，IEEE会员，江苏省计算机学会会员。2000年毕业于南京师范大学，获得理学学士学位；2005年毕业于南京大学，获得理学硕士学位；2009年毕业于南京邮电大学，获得工学博士学位；2011-2013年在南京邮电大学从事博士后研究工作；美国纽约州立大学石溪分校电子与计算机工程学院访问学者。
 
-主要研究网络安全、无线网络、物联网、区块链和AI技术等。作为负责人主持国家自然科学基金项目、江苏省自然科学基金面上项目、中国博士后基金项目、江苏省博士后基金项目、国家教育部产学研协同育人项目各1项。作为科研骨干参与完成参与国家863计划、国家自然科学基金项目、江苏省自然科学基金项目、江苏省科技支撑计划项目、江苏省未来网络前瞻性研究项目等国家和省部级课题10余项。近年来，在Elsevier Journal of Systems Architecture (JSA)、Elsevier Journal of Network and Computer Applications (JNCA)、Springer Multimedia Systems (MS)、Electronics Letters、IEEE International Conference on Communications (ICC)等主流SCI期刊和国际会议发表论文12篇，在通信学报、电子与信息学报、仪器仪表学报等国内一级学报发表论文5篇。授权和申请国家发明专利15项。
+主要研究网络安全、无线网络、物联网、区块链、AI技术和大模型等。作为负责人主持国家自然科学基金项目、江苏省自然科学基金面上项目、中国博士后基金项目、江苏省博士后基金项目、国家教育部产学研协同育人项目各1项。作为科研骨干参与完成参与国家863计划、国家自然科学基金项目、江苏省自然科学基金项目、江苏省科技支撑计划项目、江苏省未来网络前瞻性研究项目等国家和省部级课题10余项。近年来，在Elsevier Journal of Systems Architecture (JSA)、Elsevier Journal of Network and Computer Applications (JNCA)、Springer Multimedia Systems (MS)、Electronics Letters、IEEE International Conference on Communications (ICC)等主流SCI期刊和国际会议发表论文12篇，在通信学报、电子与信息学报、仪器仪表学报等国内一级学报发表论文5篇。授权和申请国家发明专利15项。
 
 课题组研究生毕业后大多就职于知名IT和通信企业（包括：大华、微众银行、阿里巴巴、微软、展讯、爱立信、诺基亚等）。  
 课题组毕业同学就职于顶级IT企业(包括：华为南京、上海、深圳、武汉研究所、大疆、展锐、海康、大华、华勤、微软、爱立信、诺基亚、三星研究院等)和科技金融机构(包括：微众银行、南京证券、中国银行等)或在知名高校攻读博士论文。
